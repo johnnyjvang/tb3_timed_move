@@ -48,7 +48,7 @@ Clone into any ROS 2 workspace:
 
 ```
 cd ~/your_ros2_ws/src
-git clone https://github.com/<your-username>/tb3_timed_move.git
+git clone https://github.com/johnnyjvang/tb3_timed_move.git
 ```
 
 Build:
